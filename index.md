@@ -2,6 +2,15 @@
 Harvey Mudd College offers unlimited free printing for all students. You can use our Mobility Print or Web Print options to print on campus. For more information 
 on printing, refer to our service catalog page.
 
+- [Student Printing at HMC](#student-printing-at-hmc)
+- [Student printer locations](#student-printer-locations)
+- [How to setup Mobility Print on your computer](#how-to-setup-mobility-print-on-your-computer)
+  - [For Windows, macOS, iOS, and Android](#for-windows-macos-ios-and-android)
+  - [For Linux and chromeOS](#for-linux-and-chromeos)
+- [How to use Web Print](#how-to-use-web-print)
+- [How to use the release stations](#how-to-use-the-release-stations)
+- [Need help?](#need-help)
+
 # Student printer locations
 |Printer Name|Location|Model|
 | ----------- | ----------- |----------- |
