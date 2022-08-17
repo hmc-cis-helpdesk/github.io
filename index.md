@@ -59,4 +59,4 @@ Please contact the CIS Help Desk for further assistance.
 - **In-person**: First floor Sprague help desk
 - **Email**: helpdesk@hmc.edu
 - **Chat**: Online chat
-- Phone: 909.607.7777
+- **Phone**: 909.607.7777
