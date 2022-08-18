@@ -13,6 +13,7 @@ on printing, refer to our service catalog page.
 
 # Student printer locations
 |Printer Name|Location|Model|
+
 | Astro | Linde Activities Center, 2nd-floor lab | HP LaserJet Enterprise Flow MFP M830|
 |Cujo|Platt Campus Center, Mailroom|HP LaserJet Enterprise Flow MFP M830|
 |Toto|Shanahan Center Cafe|HP LaserJet Enterprise Flow MFP M830|
